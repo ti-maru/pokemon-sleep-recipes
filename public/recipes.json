@@ -1,0 +1,1709 @@
+{
+  "schemaVersion": 1,
+  "recipes": [
+    {
+      "id": "curry-001",
+      "name": "しんりょくアボカドグラタン",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 41
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 20
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 32
+        },
+        {
+          "name": "つやつやアボカド",
+          "quantity": 22
+        }
+      ],
+      "totalIngredients": 115,
+      "baseEnergy": 24802,
+      "maxEnergy": 82839,
+      "recipeBonus": 1.78
+    },
+    {
+      "id": "curry-002",
+      "name": "いあいぎりすき焼きカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 26
+        },
+        {
+          "name": "ふといながねぎ",
+          "quantity": 27
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 22
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 26
+        }
+      ],
+      "totalIngredients": 101,
+      "baseEnergy": 20655,
+      "maxEnergy": 68988,
+      "recipeBonus": 1.61
+    },
+    {
+      "id": "curry-003",
+      "name": "めざめるパワーシチュー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 28
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 25
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 23
+        },
+        {
+          "name": "めざましコーヒー",
+          "quantity": 16
+        }
+      ],
+      "totalIngredients": 92,
+      "baseEnergy": 19061,
+      "maxEnergy": 63664,
+      "recipeBonus": 1.61
+    },
+    {
+      "id": "curry-004",
+      "name": "なりきりバケッチャシチュー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 16
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 18
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 25
+        },
+        {
+          "name": "ずっしりカボチャ",
+          "quantity": 10
+        }
+      ],
+      "totalIngredients": 69,
+      "baseEnergy": 15621,
+      "maxEnergy": 52174,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "curry-005",
+      "name": "れんごくコーンキーマカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 24
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 27
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 12
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 14
+        }
+      ],
+      "totalIngredients": 77,
+      "baseEnergy": 13690,
+      "maxEnergy": 45725,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "curry-006",
+      "name": "ニンジャカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 24
+        },
+        {
+          "name": "マメミート",
+          "quantity": 9
+        },
+        {
+          "name": "ふといながねぎ",
+          "quantity": 12
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 5
+        }
+      ],
+      "totalIngredients": 50,
+      "baseEnergy": 9445,
+      "maxEnergy": 31546,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "curry-007",
+      "name": "ぜったいねむりバターカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 12
+        },
+        {
+          "name": "モーモーミルク",
+          "quantity": 10
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 18
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 15
+        }
+      ],
+      "totalIngredients": 55,
+      "baseEnergy": 9010,
+      "maxEnergy": 30093,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "curry-008",
+      "name": "あぶりテールカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "げきからハーブ",
+          "quantity": 25
+        },
+        {
+          "name": "おいしいシッポ",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 33,
+      "baseEnergy": 7483,
+      "maxEnergy": 24993,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "curry-009",
+      "name": "からくちネギもりカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "ふといながねぎ",
+          "quantity": 14
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 8
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 10
+        }
+      ],
+      "totalIngredients": 32,
+      "baseEnergy": 5900,
+      "maxEnergy": 19706,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "curry-010",
+      "name": "ピヨピヨパンチ辛口カレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "げきからハーブ",
+          "quantity": 11
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 11
+        },
+        {
+          "name": "めざましコーヒー",
+          "quantity": 11
+        }
+      ],
+      "totalIngredients": 33,
+      "baseEnergy": 5702,
+      "maxEnergy": 19045,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "curry-011",
+      "name": "じゅうなんコーンシチュー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 8
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 8
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 14
+        }
+      ],
+      "totalIngredients": 30,
+      "baseEnergy": 4670,
+      "maxEnergy": 15598,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "curry-012",
+      "name": "おやこあいカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "ほっこりポテト",
+          "quantity": 4
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 11
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 8
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 12
+        }
+      ],
+      "totalIngredients": 35,
+      "baseEnergy": 4523,
+      "maxEnergy": 15107,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "curry-013",
+      "name": "キノコのほうしカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "ほっこりポテト",
+          "quantity": 9
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 14
+        }
+      ],
+      "totalIngredients": 23,
+      "baseEnergy": 4162,
+      "maxEnergy": 13901,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "curry-014",
+      "name": "ビルドアップマメカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 12
+        },
+        {
+          "name": "マメミート",
+          "quantity": 6
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 4
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 4
+        }
+      ],
+      "totalIngredients": 26,
+      "baseEnergy": 3372,
+      "maxEnergy": 11262,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "curry-015",
+      "name": "ほっこりホワイトシチュー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 10
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 8
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 4
+        }
+      ],
+      "totalIngredients": 22,
+      "baseEnergy": 3181,
+      "maxEnergy": 10625,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "curry-016",
+      "name": "とけるオムカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "とくせんエッグ",
+          "quantity": 10
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 6
+        }
+      ],
+      "totalIngredients": 16,
+      "baseEnergy": 2150,
+      "maxEnergy": 7181,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "curry-017",
+      "name": "サンパワートマトカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "げきからハーブ",
+          "quantity": 5
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 10
+        }
+      ],
+      "totalIngredients": 15,
+      "baseEnergy": 2078,
+      "maxEnergy": 6941,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "curry-018",
+      "name": "ひでりカツレツカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 10
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 5
+        }
+      ],
+      "totalIngredients": 15,
+      "baseEnergy": 1942,
+      "maxEnergy": 6486,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "curry-019",
+      "name": "満腹チーズバーグカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 8
+        },
+        {
+          "name": "マメミート",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 16,
+      "baseEnergy": 1910,
+      "maxEnergy": 6379,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "curry-020",
+      "name": "マメバーグカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 7
+        }
+      ],
+      "totalIngredients": 7,
+      "baseEnergy": 856,
+      "maxEnergy": 2859,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "curry-021",
+      "name": "ベイビィハニーカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "あまいミツ",
+          "quantity": 7
+        }
+      ],
+      "totalIngredients": 7,
+      "baseEnergy": 839,
+      "maxEnergy": 2802,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "curry-022",
+      "name": "たんじゅんホワイトシチュー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 7
+        }
+      ],
+      "totalIngredients": 7,
+      "baseEnergy": 814,
+      "maxEnergy": 2719,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "curry-023",
+      "name": "とくせんリンゴカレー",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 7
+        }
+      ],
+      "totalIngredients": 7,
+      "baseEnergy": 748,
+      "maxEnergy": 2498,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "salad-001",
+      "name": "ごろごろねっとうサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ほっこりポテト",
+          "quantity": 30
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 27
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 18
+        },
+        {
+          "name": "ずっしりカボチャ",
+          "quantity": 20
+        }
+      ],
+      "totalIngredients": 95,
+      "baseEnergy": 25356,
+      "maxEnergy": 84689,
+      "recipeBonus": 1.61
+    },
+    {
+      "id": "salad-002",
+      "name": "じならしワカモレチップス",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 22
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 30
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 25
+        },
+        {
+          "name": "つやつやアボカド",
+          "quantity": 28
+        }
+      ],
+      "totalIngredients": 105,
+      "baseEnergy": 25162,
+      "maxEnergy": 84041,
+      "recipeBonus": 1.78
+    },
+    {
+      "id": "salad-003",
+      "name": "まけんきコーヒーサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 28
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 22
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 22
+        },
+        {
+          "name": "めざましコーヒー",
+          "quantity": 28
+        }
+      ],
+      "totalIngredients": 100,
+      "baseEnergy": 20218,
+      "maxEnergy": 67528,
+      "recipeBonus": 1.61
+    },
+    {
+      "id": "salad-004",
+      "name": "りんごさんヨーグルトサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 18
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 28
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 35
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 23
+        }
+      ],
+      "totalIngredients": 104,
+      "baseEnergy": 19293,
+      "maxEnergy": 64439,
+      "recipeBonus": 1.78
+    },
+    {
+      "id": "salad-005",
+      "name": "はなふぶきミモザサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 12
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 15
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 17
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 25
+        }
+      ],
+      "totalIngredients": 69,
+      "baseEnergy": 11811,
+      "maxEnergy": 39449,
+      "recipeBonus": 1.47
+    },
+    {
+      "id": "salad-006",
+      "name": "ニンジャサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 19
+        },
+        {
+          "name": "ふといながねぎ",
+          "quantity": 15
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 11
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 12
+        }
+      ],
+      "totalIngredients": 57,
+      "baseEnergy": 11659,
+      "maxEnergy": 38941,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "salad-007",
+      "name": "ワカクササラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ほっこりポテト",
+          "quantity": 9
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 22
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 14
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 17
+        }
+      ],
+      "totalIngredients": 62,
+      "baseEnergy": 11393,
+      "maxEnergy": 38053,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "salad-008",
+      "name": "クロスチョップドサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 15
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 20
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 10
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 11
+        }
+      ],
+      "totalIngredients": 56,
+      "baseEnergy": 8755,
+      "maxEnergy": 29242,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "salad-009",
+      "name": "ヤドンテールのペッパーサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ピュアなオイル",
+          "quantity": 15
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 10
+        },
+        {
+          "name": "おいしいシッポ",
+          "quantity": 10
+        }
+      ],
+      "totalIngredients": 35,
+      "baseEnergy": 8169,
+      "maxEnergy": 27284,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "salad-010",
+      "name": "めいそうスイートサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 21
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 16
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 12
+        }
+      ],
+      "totalIngredients": 49,
+      "baseEnergy": 7675,
+      "maxEnergy": 25635,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "salad-011",
+      "name": "くだけるアボカドサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 18
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 10
+        },
+        {
+          "name": "つやつやアボカド",
+          "quantity": 14
+        }
+      ],
+      "totalIngredients": 42,
+      "baseEnergy": 7125,
+      "maxEnergy": 23798,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "salad-012",
+      "name": "キノコのほうしサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ピュアなオイル",
+          "quantity": 8
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 8
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 17
+        }
+      ],
+      "totalIngredients": 33,
+      "baseEnergy": 5859,
+      "maxEnergy": 19569,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "salad-013",
+      "name": "オーバーヒートサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "げきからハーブ",
+          "quantity": 17
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 8
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 10
+        }
+      ],
+      "totalIngredients": 35,
+      "baseEnergy": 5225,
+      "maxEnergy": 17452,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "salad-014",
+      "name": "くいしんぼうポテトサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 7
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 14
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 6
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 36,
+      "baseEnergy": 5040,
+      "maxEnergy": 16834,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "salad-015",
+      "name": "ムラっけチョコミートサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 14
+        },
+        {
+          "name": "マメミート",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 23,
+      "baseEnergy": 3665,
+      "maxEnergy": 12241,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "salad-016",
+      "name": "うるおいとうふサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 15
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 24,
+      "baseEnergy": 3113,
+      "maxEnergy": 10397,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "salad-017",
+      "name": "ばかぢからワイルドサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 9
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 3
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 5
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 6
+        }
+      ],
+      "totalIngredients": 23,
+      "baseEnergy": 3046,
+      "maxEnergy": 10174,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "salad-018",
+      "name": "モーモーカプレーゼ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 12
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 5
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 6
+        }
+      ],
+      "totalIngredients": 23,
+      "baseEnergy": 2942,
+      "maxEnergy": 9826,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "salad-019",
+      "name": "めんえきねぎサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ふといながねぎ",
+          "quantity": 10
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 5
+        }
+      ],
+      "totalIngredients": 15,
+      "baseEnergy": 2845,
+      "maxEnergy": 9502,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "salad-020",
+      "name": "みだれづきコーンサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ピュアなオイル",
+          "quantity": 8
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 17,
+      "baseEnergy": 2785,
+      "maxEnergy": 9302,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "salad-021",
+      "name": "メロメロりんごのチーズサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 5
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 3
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 15
+        }
+      ],
+      "totalIngredients": 23,
+      "baseEnergy": 2655,
+      "maxEnergy": 8868,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "salad-022",
+      "name": "ねっぷうとうふサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 10
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 6
+        }
+      ],
+      "totalIngredients": 16,
+      "baseEnergy": 2114,
+      "maxEnergy": 7061,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "salad-023",
+      "name": "ゆきかきシーザーサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 10
+        },
+        {
+          "name": "マメミート",
+          "quantity": 6
+        }
+      ],
+      "totalIngredients": 16,
+      "baseEnergy": 1898,
+      "maxEnergy": 6339,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "salad-024",
+      "name": "あんみんトマトサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "あんみんトマト",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 8,
+      "baseEnergy": 1045,
+      "maxEnergy": 3490,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "salad-025",
+      "name": "マメハムサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 8,
+      "baseEnergy": 978,
+      "maxEnergy": 3267,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "salad-026",
+      "name": "とくせんリンゴサラダ",
+      "category": "サラダ",
+      "ingredients": [
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 8,
+      "baseEnergy": 855,
+      "maxEnergy": 2856,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "dessert-001",
+      "name": "みつあつめチョコワッフル",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 21
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 28
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 38
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 28
+        }
+      ],
+      "totalIngredients": 115,
+      "baseEnergy": 25484,
+      "maxEnergy": 85117,
+      "recipeBonus": 1.78
+    },
+    {
+      "id": "dessert-002",
+      "name": "ドキドキこわいかおパンケーキ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "とくせんエッグ",
+          "quantity": 24
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 29
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 32
+        },
+        {
+          "name": "ずっしりカボチャ",
+          "quantity": 18
+        }
+      ],
+      "totalIngredients": 103,
+      "baseEnergy": 24354,
+      "maxEnergy": 81342,
+      "recipeBonus": 1.78
+    },
+    {
+      "id": "dessert-003",
+      "name": "ドオーのエクレア",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 30
+        },
+        {
+          "name": "モーモーミルク",
+          "quantity": 26
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 22
+        },
+        {
+          "name": "めざましコーヒー",
+          "quantity": 24
+        }
+      ],
+      "totalIngredients": 102,
+      "baseEnergy": 20885,
+      "maxEnergy": 69756,
+      "recipeBonus": 1.61
+    },
+    {
+      "id": "dessert-004",
+      "name": "スパークスパイスコーラ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "ふといながねぎ",
+          "quantity": 20
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 35
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 20
+        },
+        {
+          "name": "めざましコーヒー",
+          "quantity": 12
+        }
+      ],
+      "totalIngredients": 87,
+      "baseEnergy": 17494,
+      "maxEnergy": 58430,
+      "recipeBonus": 1.61
+    },
+    {
+      "id": "dessert-005",
+      "name": "フラワーギフトマカロン",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 25
+        },
+        {
+          "name": "モーモーミルク",
+          "quantity": 10
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 25
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 17
+        }
+      ],
+      "totalIngredients": 77,
+      "baseEnergy": 13834,
+      "maxEnergy": 46206,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "dessert-006",
+      "name": "おちゃかいコーンスコーン",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 9
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 20
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 20
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 18
+        }
+      ],
+      "totalIngredients": 67,
+      "baseEnergy": 10925,
+      "maxEnergy": 36490,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "dessert-007",
+      "name": "グラスミキサースムージー",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 14
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 16
+        },
+        {
+          "name": "つやつやアボカド",
+          "quantity": 18
+        }
+      ],
+      "totalIngredients": 48,
+      "baseEnergy": 8165,
+      "maxEnergy": 27271,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "dessert-008",
+      "name": "プリンのプリンアラモード",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 10
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 10
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 15
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 20
+        }
+      ],
+      "totalIngredients": 55,
+      "baseEnergy": 7594,
+      "maxEnergy": 25364,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "dessert-009",
+      "name": "かたやぶりコーンティラミス",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 12
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 14
+        },
+        {
+          "name": "めざましコーヒー",
+          "quantity": 14
+        }
+      ],
+      "totalIngredients": 40,
+      "baseEnergy": 7125,
+      "maxEnergy": 23798,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "dessert-010",
+      "name": "はやおきコーヒーゼリー",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 14
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 12
+        },
+        {
+          "name": "めざましコーヒー",
+          "quantity": 16
+        }
+      ],
+      "totalIngredients": 42,
+      "baseEnergy": 6793,
+      "maxEnergy": 22689,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "dessert-011",
+      "name": "だいばくはつポップコーン",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 7
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 14
+        },
+        {
+          "name": "ワカクサコーン",
+          "quantity": 15
+        }
+      ],
+      "totalIngredients": 36,
+      "baseEnergy": 6048,
+      "maxEnergy": 20200,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "dessert-012",
+      "name": "ちからもちソイドーナッツ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 16
+        },
+        {
+          "name": "リラックスカカオ",
+          "quantity": 7
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 12
+        }
+      ],
+      "totalIngredients": 35,
+      "baseEnergy": 5547,
+      "maxEnergy": 18527,
+      "recipeBonus": 1.35
+    },
+    {
+      "id": "dessert-013",
+      "name": "ネロリのデトックスティー",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 15
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 11
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 35,
+      "baseEnergy": 5065,
+      "maxEnergy": 16917,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "dessert-014",
+      "name": "ふくつのジンジャークッキー",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 5
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 4
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 14
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 12
+        }
+      ],
+      "totalIngredients": 35,
+      "baseEnergy": 4921,
+      "maxEnergy": 16436,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "dessert-015",
+      "name": "あくまのキッスフルーツオレ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 8
+        },
+        {
+          "name": "モーモーミルク",
+          "quantity": 9
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 11
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 7
+        }
+      ],
+      "totalIngredients": 35,
+      "baseEnergy": 4734,
+      "maxEnergy": 15812,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "dessert-016",
+      "name": "あまいかおりチョコケーキ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 8
+        },
+        {
+          "name": "モーモーミルク",
+          "quantity": 7
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 24,
+      "baseEnergy": 3378,
+      "maxEnergy": 11283,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "dessert-017",
+      "name": "はなびらのまいチョコタルト",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "リラックスカカオ",
+          "quantity": 11
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 11
+        }
+      ],
+      "totalIngredients": 22,
+      "baseEnergy": 3314,
+      "maxEnergy": 11069,
+      "recipeBonus": 1.25
+    },
+    {
+      "id": "dessert-018",
+      "name": "はりきりプロテインスムージー",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 15
+        },
+        {
+          "name": "リラックスカカオ",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 23,
+      "baseEnergy": 3168,
+      "maxEnergy": 10581,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "dessert-019",
+      "name": "おおきいマラサダ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 7
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 10
+        },
+        {
+          "name": "あまいミツ",
+          "quantity": 6
+        }
+      ],
+      "totalIngredients": 23,
+      "baseEnergy": 3015,
+      "maxEnergy": 10070,
+      "recipeBonus": 1.17
+    },
+    {
+      "id": "dessert-020",
+      "name": "マイペースやさいジュース",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 7
+        },
+        {
+          "name": "あんみんトマト",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 16,
+      "baseEnergy": 1924,
+      "maxEnergy": 6426,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "dessert-021",
+      "name": "かるわざソイケーキ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 7
+        },
+        {
+          "name": "とくせんエッグ",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 15,
+      "baseEnergy": 1924,
+      "maxEnergy": 6426,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "dessert-022",
+      "name": "ひのこのジンジャーティー",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 7
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 16,
+      "baseEnergy": 1913,
+      "maxEnergy": 6389,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "dessert-023",
+      "name": "じゅくせいスイートポテト",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 5
+        },
+        {
+          "name": "ほっこりポテト",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 14,
+      "baseEnergy": 1907,
+      "maxEnergy": 6369,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "dessert-024",
+      "name": "ねがいごとアップルパイ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 4
+        },
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 12
+        }
+      ],
+      "totalIngredients": 16,
+      "baseEnergy": 1748,
+      "maxEnergy": 5838,
+      "recipeBonus": 1.11
+    },
+    {
+      "id": "dessert-025",
+      "name": "クラフトサイコソーダ",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "あまいミツ",
+          "quantity": 9
+        }
+      ],
+      "totalIngredients": 9,
+      "baseEnergy": 1079,
+      "maxEnergy": 3604,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "dessert-026",
+      "name": "とくせんリンゴジュース",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "とくせんリンゴ",
+          "quantity": 8
+        }
+      ],
+      "totalIngredients": 8,
+      "baseEnergy": 855,
+      "maxEnergy": 2856,
+      "recipeBonus": 1.06
+    },
+    {
+      "id": "dessert-027",
+      "name": "モーモーホットミルク",
+      "category": "デザート・ドリンク",
+      "ingredients": [
+        {
+          "name": "モーモーミルク",
+          "quantity": 7
+        }
+      ],
+      "totalIngredients": 7,
+      "baseEnergy": 814,
+      "maxEnergy": 2719,
+      "recipeBonus": 1.06
+    }
+  ]
+}
