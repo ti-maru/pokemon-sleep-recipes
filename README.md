@@ -45,3 +45,9 @@ npm run build
 ```text
 https://<user>.github.io/<repository>/
 ```
+
+## ライセンス
+
+本リポジトリのソースコードはMIT Licenseで公開します。
+
+ただし、`public/recipes.json` に含まれるレシピデータはMIT Licenseの対象外です。
