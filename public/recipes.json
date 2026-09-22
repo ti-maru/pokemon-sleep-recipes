@@ -2,6 +2,33 @@
   "schemaVersion": 1,
   "recipes": [
     {
+      "id": "curry-024",
+      "name": "とびはねるカレーうどん",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "マメミート",
+          "quantity": 20
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 22
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 39
+        },
+        {
+          "name": "あじわいキノコ",
+          "quantity": 31
+        }
+      ],
+      "totalIngredients": 112,
+      "baseEnergy": 25539,
+      "maxEnergy": 91430,
+      "recipeBonus": 1.78
+    },
+    {
       "id": "curry-001",
       "name": "しんりょくアボカドグラタン",
       "category": "カレー・シチュー",
@@ -25,7 +52,7 @@
       ],
       "totalIngredients": 115,
       "baseEnergy": 24802,
-      "maxEnergy": 82839,
+      "maxEnergy": 88791,
       "recipeBonus": 1.78
     },
     {
@@ -52,7 +79,7 @@
       ],
       "totalIngredients": 101,
       "baseEnergy": 20655,
-      "maxEnergy": 68988,
+      "maxEnergy": 73945,
       "recipeBonus": 1.61
     },
     {
@@ -79,7 +106,7 @@
       ],
       "totalIngredients": 92,
       "baseEnergy": 19061,
-      "maxEnergy": 63664,
+      "maxEnergy": 68238,
       "recipeBonus": 1.61
     },
     {
@@ -106,7 +133,7 @@
       ],
       "totalIngredients": 69,
       "baseEnergy": 15621,
-      "maxEnergy": 52174,
+      "maxEnergy": 55923,
       "recipeBonus": 1.48
     },
     {
@@ -133,7 +160,34 @@
       ],
       "totalIngredients": 77,
       "baseEnergy": 13690,
-      "maxEnergy": 45725,
+      "maxEnergy": 49010,
+      "recipeBonus": 1.48
+    },
+    {
+      "id": "curry-025",
+      "name": "ワカクサカレーパン",
+      "category": "カレー・シチュー",
+      "ingredients": [
+        {
+          "name": "ワカクサ大豆",
+          "quantity": 8
+        },
+        {
+          "name": "ピュアなオイル",
+          "quantity": 15
+        },
+        {
+          "name": "げきからハーブ",
+          "quantity": 20
+        },
+        {
+          "name": "あったかジンジャー",
+          "quantity": 20
+        }
+      ],
+      "totalIngredients": 63,
+      "baseEnergy": 10945,
+      "maxEnergy": 39183,
       "recipeBonus": 1.48
     },
     {
@@ -160,7 +214,7 @@
       ],
       "totalIngredients": 50,
       "baseEnergy": 9445,
-      "maxEnergy": 31546,
+      "maxEnergy": 33813,
       "recipeBonus": 1.48
     },
     {
@@ -187,7 +241,7 @@
       ],
       "totalIngredients": 55,
       "baseEnergy": 9010,
-      "maxEnergy": 30093,
+      "maxEnergy": 32256,
       "recipeBonus": 1.35
     },
     {
@@ -206,7 +260,7 @@
       ],
       "totalIngredients": 33,
       "baseEnergy": 7483,
-      "maxEnergy": 24993,
+      "maxEnergy": 26789,
       "recipeBonus": 1.25
     },
     {
@@ -229,7 +283,7 @@
       ],
       "totalIngredients": 32,
       "baseEnergy": 5900,
-      "maxEnergy": 19706,
+      "maxEnergy": 21122,
       "recipeBonus": 1.25
     },
     {
@@ -252,7 +306,7 @@
       ],
       "totalIngredients": 33,
       "baseEnergy": 5702,
-      "maxEnergy": 19045,
+      "maxEnergy": 20413,
       "recipeBonus": 1.35
     },
     {
@@ -275,7 +329,7 @@
       ],
       "totalIngredients": 30,
       "baseEnergy": 4670,
-      "maxEnergy": 15598,
+      "maxEnergy": 16719,
       "recipeBonus": 1.25
     },
     {
@@ -302,7 +356,7 @@
       ],
       "totalIngredients": 35,
       "baseEnergy": 4523,
-      "maxEnergy": 15107,
+      "maxEnergy": 16192,
       "recipeBonus": 1.25
     },
     {
@@ -321,7 +375,7 @@
       ],
       "totalIngredients": 23,
       "baseEnergy": 4162,
-      "maxEnergy": 13901,
+      "maxEnergy": 14900,
       "recipeBonus": 1.17
     },
     {
@@ -348,7 +402,7 @@
       ],
       "totalIngredients": 26,
       "baseEnergy": 3372,
-      "maxEnergy": 11262,
+      "maxEnergy": 12072,
       "recipeBonus": 1.17
     },
     {
@@ -371,7 +425,7 @@
       ],
       "totalIngredients": 22,
       "baseEnergy": 3181,
-      "maxEnergy": 10625,
+      "maxEnergy": 11388,
       "recipeBonus": 1.17
     },
     {
@@ -390,7 +444,7 @@
       ],
       "totalIngredients": 16,
       "baseEnergy": 2150,
-      "maxEnergy": 7181,
+      "maxEnergy": 7697,
       "recipeBonus": 1.11
     },
     {
@@ -409,7 +463,7 @@
       ],
       "totalIngredients": 15,
       "baseEnergy": 2078,
-      "maxEnergy": 6941,
+      "maxEnergy": 7439,
       "recipeBonus": 1.11
     },
     {
@@ -428,7 +482,7 @@
       ],
       "totalIngredients": 15,
       "baseEnergy": 1942,
-      "maxEnergy": 6486,
+      "maxEnergy": 6952,
       "recipeBonus": 1.11
     },
     {
@@ -447,7 +501,7 @@
       ],
       "totalIngredients": 16,
       "baseEnergy": 1910,
-      "maxEnergy": 6379,
+      "maxEnergy": 6838,
       "recipeBonus": 1.11
     },
     {
@@ -462,7 +516,7 @@
       ],
       "totalIngredients": 7,
       "baseEnergy": 856,
-      "maxEnergy": 2859,
+      "maxEnergy": 3064,
       "recipeBonus": 1.06
     },
     {
@@ -477,7 +531,7 @@
       ],
       "totalIngredients": 7,
       "baseEnergy": 839,
-      "maxEnergy": 2802,
+      "maxEnergy": 3004,
       "recipeBonus": 1.06
     },
     {
@@ -492,7 +546,7 @@
       ],
       "totalIngredients": 7,
       "baseEnergy": 814,
-      "maxEnergy": 2719,
+      "maxEnergy": 2914,
       "recipeBonus": 1.06
     },
     {
@@ -507,7 +561,7 @@
       ],
       "totalIngredients": 7,
       "baseEnergy": 748,
-      "maxEnergy": 2498,
+      "maxEnergy": 2678,
       "recipeBonus": 1.06
     },
     {
@@ -534,7 +588,7 @@
       ],
       "totalIngredients": 95,
       "baseEnergy": 25356,
-      "maxEnergy": 84689,
+      "maxEnergy": 90774,
       "recipeBonus": 1.61
     },
     {
@@ -561,7 +615,7 @@
       ],
       "totalIngredients": 105,
       "baseEnergy": 25162,
-      "maxEnergy": 84041,
+      "maxEnergy": 90080,
       "recipeBonus": 1.78
     },
     {
@@ -588,7 +642,7 @@
       ],
       "totalIngredients": 100,
       "baseEnergy": 20218,
-      "maxEnergy": 67528,
+      "maxEnergy": 72380,
       "recipeBonus": 1.61
     },
     {
@@ -615,7 +669,7 @@
       ],
       "totalIngredients": 104,
       "baseEnergy": 19293,
-      "maxEnergy": 64439,
+      "maxEnergy": 69069,
       "recipeBonus": 1.78
     },
     {
@@ -642,7 +696,7 @@
       ],
       "totalIngredients": 69,
       "baseEnergy": 11811,
-      "maxEnergy": 39449,
+      "maxEnergy": 42283,
       "recipeBonus": 1.47
     },
     {
@@ -669,7 +723,7 @@
       ],
       "totalIngredients": 57,
       "baseEnergy": 11659,
-      "maxEnergy": 38941,
+      "maxEnergy": 41739,
       "recipeBonus": 1.48
     },
     {
@@ -696,7 +750,7 @@
       ],
       "totalIngredients": 62,
       "baseEnergy": 11393,
-      "maxEnergy": 38053,
+      "maxEnergy": 40787,
       "recipeBonus": 1.48
     },
     {
@@ -723,7 +777,7 @@
       ],
       "totalIngredients": 56,
       "baseEnergy": 8755,
-      "maxEnergy": 29242,
+      "maxEnergy": 31343,
       "recipeBonus": 1.35
     },
     {
@@ -746,7 +800,7 @@
       ],
       "totalIngredients": 35,
       "baseEnergy": 8169,
-      "maxEnergy": 27284,
+      "maxEnergy": 29245,
       "recipeBonus": 1.25
     },
     {
@@ -769,7 +823,7 @@
       ],
       "totalIngredients": 49,
       "baseEnergy": 7675,
-      "maxEnergy": 25635,
+      "maxEnergy": 27477,
       "recipeBonus": 1.48
     },
     {
@@ -792,7 +846,7 @@
       ],
       "totalIngredients": 42,
       "baseEnergy": 7125,
-      "maxEnergy": 23798,
+      "maxEnergy": 25508,
       "recipeBonus": 1.35
     },
     {
@@ -815,7 +869,7 @@
       ],
       "totalIngredients": 33,
       "baseEnergy": 5859,
-      "maxEnergy": 19569,
+      "maxEnergy": 20975,
       "recipeBonus": 1.25
     },
     {
@@ -838,7 +892,7 @@
       ],
       "totalIngredients": 35,
       "baseEnergy": 5225,
-      "maxEnergy": 17452,
+      "maxEnergy": 18706,
       "recipeBonus": 1.25
     },
     {
@@ -865,7 +919,7 @@
       ],
       "totalIngredients": 36,
       "baseEnergy": 5040,
-      "maxEnergy": 16834,
+      "maxEnergy": 18043,
       "recipeBonus": 1.25
     },
     {
@@ -884,7 +938,7 @@
       ],
       "totalIngredients": 23,
       "baseEnergy": 3665,
-      "maxEnergy": 12241,
+      "maxEnergy": 13121,
       "recipeBonus": 1.17
     },
     {
@@ -903,7 +957,7 @@
       ],
       "totalIngredients": 24,
       "baseEnergy": 3113,
-      "maxEnergy": 10397,
+      "maxEnergy": 11145,
       "recipeBonus": 1.25
     },
     {
@@ -930,7 +984,7 @@
       ],
       "totalIngredients": 23,
       "baseEnergy": 3046,
-      "maxEnergy": 10174,
+      "maxEnergy": 10905,
       "recipeBonus": 1.17
     },
     {
@@ -953,7 +1007,7 @@
       ],
       "totalIngredients": 23,
       "baseEnergy": 2942,
-      "maxEnergy": 9826,
+      "maxEnergy": 10532,
       "recipeBonus": 1.17
     },
     {
@@ -972,7 +1026,7 @@
       ],
       "totalIngredients": 15,
       "baseEnergy": 2845,
-      "maxEnergy": 9502,
+      "maxEnergy": 10185,
       "recipeBonus": 1.11
     },
     {
@@ -991,7 +1045,7 @@
       ],
       "totalIngredients": 17,
       "baseEnergy": 2785,
-      "maxEnergy": 9302,
+      "maxEnergy": 9970,
       "recipeBonus": 1.25
     },
     {
@@ -1014,7 +1068,7 @@
       ],
       "totalIngredients": 23,
       "baseEnergy": 2655,
-      "maxEnergy": 8868,
+      "maxEnergy": 9505,
       "recipeBonus": 1.17
     },
     {
@@ -1033,7 +1087,7 @@
       ],
       "totalIngredients": 16,
       "baseEnergy": 2114,
-      "maxEnergy": 7061,
+      "maxEnergy": 7568,
       "recipeBonus": 1.11
     },
     {
@@ -1052,7 +1106,7 @@
       ],
       "totalIngredients": 16,
       "baseEnergy": 1898,
-      "maxEnergy": 6339,
+      "maxEnergy": 6795,
       "recipeBonus": 1.11
     },
     {
@@ -1067,7 +1121,7 @@
       ],
       "totalIngredients": 8,
       "baseEnergy": 1045,
-      "maxEnergy": 3490,
+      "maxEnergy": 3741,
       "recipeBonus": 1.06
     },
     {
@@ -1082,7 +1136,7 @@
       ],
       "totalIngredients": 8,
       "baseEnergy": 978,
-      "maxEnergy": 3267,
+      "maxEnergy": 3501,
       "recipeBonus": 1.06
     },
     {
@@ -1097,7 +1151,7 @@
       ],
       "totalIngredients": 8,
       "baseEnergy": 855,
-      "maxEnergy": 2856,
+      "maxEnergy": 3061,
       "recipeBonus": 1.06
     },
     {
@@ -1124,7 +1178,7 @@
       ],
       "totalIngredients": 115,
       "baseEnergy": 25484,
-      "maxEnergy": 85117,
+      "maxEnergy": 91233,
       "recipeBonus": 1.78
     },
     {
@@ -1151,7 +1205,7 @@
       ],
       "totalIngredients": 103,
       "baseEnergy": 24354,
-      "maxEnergy": 81342,
+      "maxEnergy": 87187,
       "recipeBonus": 1.78
     },
     {
@@ -1178,7 +1232,7 @@
       ],
       "totalIngredients": 102,
       "baseEnergy": 20885,
-      "maxEnergy": 69756,
+      "maxEnergy": 74768,
       "recipeBonus": 1.61
     },
     {
@@ -1205,7 +1259,7 @@
       ],
       "totalIngredients": 87,
       "baseEnergy": 17494,
-      "maxEnergy": 58430,
+      "maxEnergy": 62629,
       "recipeBonus": 1.61
     },
     {
@@ -1232,7 +1286,7 @@
       ],
       "totalIngredients": 77,
       "baseEnergy": 13834,
-      "maxEnergy": 46206,
+      "maxEnergy": 49526,
       "recipeBonus": 1.48
     },
     {
@@ -1259,7 +1313,7 @@
       ],
       "totalIngredients": 67,
       "baseEnergy": 10925,
-      "maxEnergy": 36490,
+      "maxEnergy": 39112,
       "recipeBonus": 1.48
     },
     {
@@ -1282,7 +1336,7 @@
       ],
       "totalIngredients": 48,
       "baseEnergy": 8165,
-      "maxEnergy": 27271,
+      "maxEnergy": 29231,
       "recipeBonus": 1.35
     },
     {
@@ -1309,7 +1363,7 @@
       ],
       "totalIngredients": 55,
       "baseEnergy": 7594,
-      "maxEnergy": 25364,
+      "maxEnergy": 27187,
       "recipeBonus": 1.35
     },
     {
@@ -1332,7 +1386,7 @@
       ],
       "totalIngredients": 40,
       "baseEnergy": 7125,
-      "maxEnergy": 23798,
+      "maxEnergy": 25508,
       "recipeBonus": 1.35
     },
     {
@@ -1355,7 +1409,7 @@
       ],
       "totalIngredients": 42,
       "baseEnergy": 6793,
-      "maxEnergy": 22689,
+      "maxEnergy": 24319,
       "recipeBonus": 1.35
     },
     {
@@ -1378,7 +1432,7 @@
       ],
       "totalIngredients": 36,
       "baseEnergy": 6048,
-      "maxEnergy": 20200,
+      "maxEnergy": 21652,
       "recipeBonus": 1.35
     },
     {
@@ -1401,7 +1455,7 @@
       ],
       "totalIngredients": 35,
       "baseEnergy": 5547,
-      "maxEnergy": 18527,
+      "maxEnergy": 19858,
       "recipeBonus": 1.35
     },
     {
@@ -1424,7 +1478,7 @@
       ],
       "totalIngredients": 35,
       "baseEnergy": 5065,
-      "maxEnergy": 16917,
+      "maxEnergy": 18133,
       "recipeBonus": 1.25
     },
     {
@@ -1451,7 +1505,7 @@
       ],
       "totalIngredients": 35,
       "baseEnergy": 4921,
-      "maxEnergy": 16436,
+      "maxEnergy": 17617,
       "recipeBonus": 1.25
     },
     {
@@ -1478,7 +1532,7 @@
       ],
       "totalIngredients": 35,
       "baseEnergy": 4734,
-      "maxEnergy": 15812,
+      "maxEnergy": 16948,
       "recipeBonus": 1.25
     },
     {
@@ -1501,7 +1555,7 @@
       ],
       "totalIngredients": 24,
       "baseEnergy": 3378,
-      "maxEnergy": 11283,
+      "maxEnergy": 12093,
       "recipeBonus": 1.17
     },
     {
@@ -1520,7 +1574,7 @@
       ],
       "totalIngredients": 22,
       "baseEnergy": 3314,
-      "maxEnergy": 11069,
+      "maxEnergy": 11864,
       "recipeBonus": 1.25
     },
     {
@@ -1539,7 +1593,7 @@
       ],
       "totalIngredients": 23,
       "baseEnergy": 3168,
-      "maxEnergy": 10581,
+      "maxEnergy": 11341,
       "recipeBonus": 1.17
     },
     {
@@ -1562,7 +1616,7 @@
       ],
       "totalIngredients": 23,
       "baseEnergy": 3015,
-      "maxEnergy": 10070,
+      "maxEnergy": 10794,
       "recipeBonus": 1.17
     },
     {
@@ -1581,7 +1635,7 @@
       ],
       "totalIngredients": 16,
       "baseEnergy": 1924,
-      "maxEnergy": 6426,
+      "maxEnergy": 6888,
       "recipeBonus": 1.11
     },
     {
@@ -1600,7 +1654,7 @@
       ],
       "totalIngredients": 15,
       "baseEnergy": 1924,
-      "maxEnergy": 6426,
+      "maxEnergy": 6888,
       "recipeBonus": 1.11
     },
     {
@@ -1619,7 +1673,7 @@
       ],
       "totalIngredients": 16,
       "baseEnergy": 1913,
-      "maxEnergy": 6389,
+      "maxEnergy": 6849,
       "recipeBonus": 1.11
     },
     {
@@ -1638,7 +1692,7 @@
       ],
       "totalIngredients": 14,
       "baseEnergy": 1907,
-      "maxEnergy": 6369,
+      "maxEnergy": 6827,
       "recipeBonus": 1.11
     },
     {
@@ -1657,7 +1711,7 @@
       ],
       "totalIngredients": 16,
       "baseEnergy": 1748,
-      "maxEnergy": 5838,
+      "maxEnergy": 6258,
       "recipeBonus": 1.11
     },
     {
@@ -1672,7 +1726,7 @@
       ],
       "totalIngredients": 9,
       "baseEnergy": 1079,
-      "maxEnergy": 3604,
+      "maxEnergy": 3863,
       "recipeBonus": 1.06
     },
     {
@@ -1687,7 +1741,7 @@
       ],
       "totalIngredients": 8,
       "baseEnergy": 855,
-      "maxEnergy": 2856,
+      "maxEnergy": 3061,
       "recipeBonus": 1.06
     },
     {
@@ -1702,7 +1756,7 @@
       ],
       "totalIngredients": 7,
       "baseEnergy": 814,
-      "maxEnergy": 2719,
+      "maxEnergy": 2914,
       "recipeBonus": 1.06
     }
   ]
